@@ -15,5 +15,5 @@ A simple personal notes app with user authentication (JWT) built with **Next.js 
 1. Clone the repository (or unzip your deliverable):
 
 ```bash
-git clone <private_repo_url>
+git clone git@github.com:Mahesh8867/Notes-taking.git
 cd Notes
